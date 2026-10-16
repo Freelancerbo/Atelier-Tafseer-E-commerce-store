@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 About
+**📖 About**
 
 **Atelier Tafseer** started as an idea a few months ago. Today, it is a modern e-commerce storefront built with the goal of creating a fast, beautiful, scalable, and user-friendly shopping experience.
 
@@ -16,21 +16,21 @@ This repository documents the journey of **Atelier Tafseer**, from concept to a 
 
 ---
 
-## ✨ Features
+**✨ Features**
 
-### 🎨 Frontend & User Experience
+**🎨 Frontend & User Experience**
 - Fully animated, modern, and responsive UI/UX.
 - Mobile-first layout with smooth micro-interactions.
 - Clean, minimal, and premium aesthetic.
 
-### 💱 E-commerce Features
+**💱 E-commerce Features**
 - Multi-currency support: **USD, EUR, GBP, and AED**.
 - Shopping flow: product browsing, cart, and checkout.
 - Configured shipping zones for global reach.
 - Multiple product collections: **Men's, Women's, and Unisex**.
 - Product categories: **Fashion, Garments, Bags, Watches, Electronics, and Home Appliances**.
 
-### ⚙️ Admin Dashboard
+**⚙️ Admin Dashboard**
 - Custom-built admin panel.
 - Add, edit, and delete products.
 - Manage product images, sizes, colors, and pricing.
@@ -38,7 +38,7 @@ This repository documents the journey of **Atelier Tafseer**, from concept to a 
 
 ---
 
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 | Layer | Technology |
 |---|---|
@@ -49,11 +49,11 @@ This repository documents the journey of **Atelier Tafseer**, from concept to a 
 | Admin Panel | Custom dashboard for store management |
 | Deployment | Live storefront |
 
-**Note:** Update this section with the exact technologies used in the project, such as React, Next.js, Tailwind CSS, Supabase, or Vercel, wherever applicable.
+**Note:** Update this section with the exact technologies used in the project.
 
 ---
 
-## 🚀 Roadmap
+**🚀 Roadmap**
 
 - [x] Responsive storefront design.
 - [x] Multi-currency support.
@@ -68,7 +68,7 @@ This repository documents the journey of **Atelier Tafseer**, from concept to a 
 
 ---
 
-## 🤝 Looking for Suppliers
+**🤝 Looking for Suppliers**
 
 The products currently displayed in the store are **demo items**. I am actively looking for reliable suppliers and manufacturers who can provide quality products.
 
@@ -78,7 +78,7 @@ If you are a supplier, manufacturer, or know someone in the industry, especially
 
 ---
 
-## 💬 Feedback Welcome
+**💬 Feedback Welcome**
 
 Your honest feedback will help improve Atelier Tafseer.
 
@@ -90,7 +90,7 @@ Feel free to open an issue, start a discussion, or reach out directly.
 
 ---
 
-## 🚀 This Is Just the Beginning
+**🚀 This Is Just the Beginning**
 
 I will continue improving **Atelier Tafseer**, adding new features, connecting with suppliers, and sharing the journey of building an e-commerce business in public.
 
@@ -98,7 +98,7 @@ Every ⭐ star, suggestion, and share is appreciated. Thank you for your support
 
 ---
 
-## 📬 Connect
+**📬 Connect**
 
 - 🔗 **Live Store:** [Visit Atelier Tafseer](https://lnkd.in/dayxdHeG)
 - 💼 **LinkedIn:** Add your LinkedIn profile URL here.
@@ -106,7 +106,7 @@ Every ⭐ star, suggestion, and share is appreciated. Thank you for your support
 
 ---
 
-## 🏷️ Tags
+**🏷️ Tags**
 
 `#AtelierTafseer` `#Ecommerce` `#WebDevelopment` `#SoftwareEngineering` `#BuildInPublic` `#Entrepreneurship` `#Startup` `#Pakistan` `#TechInnovation` `#EcommerceStore`
 
